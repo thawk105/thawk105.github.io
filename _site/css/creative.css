@@ -483,3 +483,8 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #222;
 }
+
+.intern-aval {
+  width: 50%;
+  height: 50%;
+}
