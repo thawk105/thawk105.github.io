@@ -14,7 +14,7 @@ Charles E Leiserson. A simple deterministic algorithm for guaranteeing the forwa
 
 #進行保証のやり方（1分）
 
-<img src="./img/txprogress.png" alt="Figure. 1 of the refered paper." class="txprogress-2019-12">
+<img src="https://github.com/thawk105/thawk105.github.io/blob/master/_posts/img/txprogress.png" alt="Figure. 1 of the refered paper." class="txprogress-2019-12">
 
 SAFE-ACCESS(x, L) : x というレコードに安全にアクセスしたいっす．今持ってるロックは L です．
                     1 : h(x) が取るべきロックで，既に持ってるかどうか？
